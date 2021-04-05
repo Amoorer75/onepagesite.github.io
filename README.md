@@ -45,7 +45,7 @@
             <li><a href="https://www.instagram.com/" target="_blank">Insagram</a></li>
           </ul>  
         </div>
-        </div>
+       
 
     </body>
 </div>
