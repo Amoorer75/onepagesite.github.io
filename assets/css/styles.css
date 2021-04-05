@@ -8,7 +8,7 @@ body {
         radial-gradient(circle at top right,
             #f8bb01,
             #0090ff 57%);
-    height: 150vh;
+    height: 200vh;
     background-repeat:space;
     background: cover;
 }
